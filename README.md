@@ -6,6 +6,8 @@ Embed a productboard portal on a WordPress page using a shortcode.
 
 Add a constant to wp-config.php with the secret key. The default constant name is `PRODUCTBOARD_KEY`.
 
+Run `composer-install`, activate the plugin and add the shortcode to a page.
+
 Example:
 
 [productboard url="your embed URL"]
