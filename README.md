@@ -15,4 +15,4 @@ Example:
 Optional attributes:
 
 - `annonymous_message` The message to display to users that are not logged in.
-- `key_constant` Default: "PRODUCTBOARD_KEY" The name of the constant with the productboard secret key. If you have multiple portals you'll need to define multiple constant.
+- `key_constant` Default: "PRODUCTBOARD_KEY" The name of the constant with the productboard secret key. If you have multiple portals you'll need to define multiple constants.
