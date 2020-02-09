@@ -1,4 +1,4 @@
-# productboard-portal
+# producboard portal WordPress plugin
 
 Embed a productboard portal on a WordPress page using a shortcode.
 
