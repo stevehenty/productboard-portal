@@ -2,7 +2,7 @@
 
 Embed a productboard portal on a WordPress page using a shortcode.
 
-##Instructions
+## Instructions
 
 Add a constant to wp-config.php with the secret key. The default constant name is `PRODUCTBOARD_KEY`.
 
