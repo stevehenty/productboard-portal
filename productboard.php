@@ -49,7 +49,7 @@ function sh_productboard_shortcode( $atts ) {
 
 	$jwt = \Firebase\JWT\JWT::encode( $payload, $key );
 
-	$c = intval( rgget( 'c' ) );
+	$c = sanitize_text_field( rgget( 'c' ) );
 
 	$card = empty( $c ) ? '' : 'c/' . $c;
 
